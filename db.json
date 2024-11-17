@@ -1,0 +1,28 @@
+{
+  "uploadBooks": [
+    {
+      "id": "3a5a",
+      "title": "Harry Potter",
+      "imgUrl": "https://m.media-amazon.com/images/I/81q77Q39nEL._AC_UF1000,1000_QL80_.jpg",
+      "author": "J K Rowling",
+      "genre": "Fiction",
+      "year": "1997"
+    },
+    {
+      "id": "b7a8",
+      "title": "It ends with us",
+      "imgUrl": "https://m.media-amazon.com/images/I/91CqNElQaKL.jpg",
+      "author": "Colleen Hoover",
+      "genre": "Love story",
+      "year": "2017"
+    },
+    {
+      "id": "beba",
+      "title": "You Only Live Once",
+      "imgUrl": "https://m.media-amazon.com/images/I/71dNsRuYL7L._AC_UF1000,1000_QL80_.jpg",
+      "author": " STUTI CHANGLE ",
+      "genre": "Fiction",
+      "year": "2020"
+    }
+  ]
+}
